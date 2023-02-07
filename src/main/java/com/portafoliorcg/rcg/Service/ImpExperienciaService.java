@@ -2,7 +2,7 @@
 package com.portafoliorcg.rcg.Service;
 
 import com.portafoliorcg.rcg.Entity.Experiencia;
-import com.portafoliorcg.rcg.Interface.IExperienciaService;
+import com.portafoliorcg.rcg.Repository.Interface.IExperienciaService;
 import com.portafoliorcg.rcg.Repository.IExperienciaRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

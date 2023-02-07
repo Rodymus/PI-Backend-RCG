@@ -2,7 +2,7 @@
 package com.portafoliorcg.rcg.Controller;
 
 import com.portafoliorcg.rcg.Entity.Educacion;
-import com.portafoliorcg.rcg.Interface.IEducacionService;
+import com.portafoliorcg.rcg.Repository.Interface.IEducacionService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;

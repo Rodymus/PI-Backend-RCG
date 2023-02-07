@@ -2,7 +2,7 @@
 package com.portafoliorcg.rcg.Service;
 
 import com.portafoliorcg.rcg.Entity.Persona;
-import com.portafoliorcg.rcg.Interface.IPersonaService;
+import com.portafoliorcg.rcg.Repository.Interface.IPersonaService;
 import com.portafoliorcg.rcg.Repository.IPersonaRepository;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

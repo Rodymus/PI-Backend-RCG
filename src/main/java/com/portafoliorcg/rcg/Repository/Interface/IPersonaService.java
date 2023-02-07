@@ -1,4 +1,4 @@
-package com.portafoliorcg.rcg.Interface;
+package com.portafoliorcg.rcg.Repository.Interface;
 
 import com.portafoliorcg.rcg.Entity.Persona;
 import java.util.List;
